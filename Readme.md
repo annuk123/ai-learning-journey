@@ -1,13 +1,18 @@
 
-#  AI/ML → AGI Research Syllabus (v1.0)
-I'll continue my indie hacker journey while spending a little time learning AI/ML. Hopefully, one day it'll help me pursue solo AI research.
+# AI Learning Journey
+
+Learning AI/ML in public while continuing my indie hacker journey.
+
+My long-term goal is to conduct solo AI research. This repository contains my notes, experiments, projects, and everything I learn along the way.
 **Duration:** ~18–24 months (part-time)
 
 ---
 
-# Semester 0 — Foundation & Environment (Week 1)
+#  AI/ML → AGI Research Syllabus (v1.0)
 
-## Goal
+## Semester 0 — Foundation & Environment (Week 1)
+
+### Goal
 
 Set up your learning environment and understand the AI landscape.
 
@@ -508,7 +513,7 @@ Instead of only tutorials, create original work such as:
 
 ---
 
-# 🏆 Milestones
+#  Milestones
 
 * **Level 1:** Comfortable Python programmer.
 * **Level 2:** Can analyze and visualize real datasets.
